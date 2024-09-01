@@ -1,0 +1,55 @@
+nav{
+    background-color: black;
+    color:white;
+    padding: 20px;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color: aqua;
+}
+h3,ul,li{
+    display: inline;
+}
+h3{
+   margin-right: 60%;
+} 
+input{ 
+    
+    width: 50%;
+    height:50px;
+    padding: 20px;
+}
+.s{
+    text-align: center; 
+
+}
+
+.box{
+    width:220px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    display: inline-block;
+    text-align: center;
+   
+}
+
+.box:hover{
+    background-color: black;
+    color:aliceblue
+}
+.box1{
+    text-align: center;
+}
+.c{
+    text-align: center;
+    
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
